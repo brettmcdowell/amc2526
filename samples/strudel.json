@@ -4,7 +4,7 @@
   "eggcrack": "will/egg_cracking_short.wav",
   "chickens": "will/ambient_chicken.wav",
   "chickenbites": "will/chicken_bites.wav",
-  "gong": {"g3": "will/gong.wav"}
+  "gong": {"g3": "will/gong.wav"},
   "sheep": "Jack/sheep.wav",
   "thud": "Jack/thud.wav",
   "u_piano": "Jack/u_piano.wav",
