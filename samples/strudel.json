@@ -2,4 +2,7 @@
   "_base": "https://raw.githubusercontent.com/stevenaeola/amc_2526/main/samples/",
   "swallows": "swallows/barnswallowsongcallvoicesound.wav",
   "bash": "brett/ShortUnpitched.wav"
+  "lacemachine": "lacemachine/lacemachine_hh.wav"
+  "industry_mbience": "industry_ambient.wav"
+  "vizaion_pino": "vizaion__piano-c-2.wav"
 }
