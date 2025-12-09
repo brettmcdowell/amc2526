@@ -5,4 +5,16 @@
   "chickens": "will/ambient_chicken.wav",
   "chickenbites": "will/chicken_bites.wav",
   "gong": {"g3": "will/gong.wav"}
+  "sheep": "Jack/sheep.wav",
+  "thud": "Jack/thud.wav",
+  "u_piano": "Jack/u_piano.wav",
+  "kickin-wing": "kickin-wing/826758__tboneaudio__kickin-wing.wav",
+  "pajaros-en-el-rio": "pajaros-en-el-rio/836713__dani3lns__03-pajaros-en-el-rio.wav",
+  "piano-miss-played": {
+    "cs4": "piano-miss-played/795602__vizaion__piano-c-octave-miss-played.wav"
+  },
+  "bash": "brett/ShortUnpitched.wav",
+  "lacemachine": "lacemachine/lacemachine_hh.wav",
+  "industry_mbience": "industry_ambient/industry_ambient.wav"
+  "vizaion_pino": "vizaion_pino/vizaion__piano-c-2.wav"
 }
